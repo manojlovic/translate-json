@@ -1,0 +1,104 @@
+{
+  "menu": {
+    "products": "Products",
+    "detects": "What it Detects",
+    "comparison": "Comparison",
+    "how-to": "How-To",
+    "makers": "Makers",
+    "support": "Support",
+    "resellers": "Resellers",
+    "store": "Store"
+  },
+  "hero": {
+    "ribbon-text": "World's best stud finder",
+    "money-back": "30-day money back guarantee"
+  },
+  "as-seen-on" : {
+      "text": "As Seen On"
+  },
+  "modes": {
+    "title": "3 Modes",
+    "subtitle": "To help you get the job done",
+    "image-mode": "Image mode",
+    "image-mode-sub": "Get Visual classification and identify wood and metal studs, pipes, wires and cables.",
+    "pan-mode": "Panoramic mode",
+    "pan-mode-sub": "Get a panoramic view of a full wall line including the distances between objects.",
+    "expert-mode": "Expert mode",
+    "expert-mode-sub": "See the raw sigals the Walabot DIY scanner detects, like movement."
+  },
+  "see-through-walls":{
+    "title": "See through walls",
+    "caption": "before you drill or hammer",
+    "wood": "Wood",
+    "wood-sub": "Find wooden studs, beams and joists",
+    "pipes": "Pipes & Wires",
+    "pipes-sub": "Detect PVC and metal pipes, conduit and electrical wires and cables",
+    "metal": "Metal",
+    "metal-sub": "Locate metal objects such as studs, pipes and reinforcement bars",
+    "move":"Movement",
+    "move-sub": "Track pests and rodents"
+  },
+  "comparison":{
+      "title": "Only Walabot",
+      "subtitle": "Clearly shows you what's inside your walls",
+      "studs": "Can see studs",
+      "pipes": "Can see pipes",
+      "wires": "Can see wires",
+      "cat5": "Can see CAT5 cabling",
+      "heating": "Can see underfloor heating",
+      "pests": "Detects pests",
+      "drywall": "Works on drywall",
+      "concrete": "Works on concrete",
+      "lath": "Works on lath & plaster",
+      "save-img": "Can save wall image to your phone",
+      "batteries": "Requires batteries",
+      "radar": "Uses cutting-edge radar technology",
+      "price": "Price"
+  },
+  "howTo" :{
+    "p": "Discover everything Walabot is capable of!"
+  },
+  "learn-more":{
+    "title": "Want to learn more? Get our special edition e-book for FREE.",
+    "subscribe": "Get the lastest updates, a chance to win a free Walabot DIY and more!"
+  },
+  "seo":{
+    "questions": "Questions",
+    "beam-finder": "Walabot Beam Finder",
+    "stud-finder": "Best Stud Finder",
+    "wall-studs": "Find Wall Studs",
+    "tv-mount": "TV Mount",
+    "wood-stud": "Wood Stud Finder",
+    "see-through" : "See Through the Wall",
+    "app": "Walabot Stud Finder App",
+    "tech" : "Walabot Wall Scanner Technology"
+  },
+  "footer" : {
+    "warehouse": "Warehouse address",
+    "support": "Customer support",
+    "company": "Company",
+    "about-us": "About Us",
+    "distributors": "Distributors",
+    "contact": "Contact Us",
+    "return": "Return Request",
+    "privacy": "Privacy & Terms",
+    "legal": "Legal Info",
+    "refund" : "Refund Policy",
+    "press": "Press Kit",
+    "we-accept": "We accept"
+  },
+  "support" : {
+    "title" : "Contact Us",
+    "assistance" :"Do you need assistance with your Walabot?",
+    "assistance-sub" : "Click <span class='span-purple'>here</span>.",
+    "resellers": "Are you a distributor or reseller?",
+    "resellers-sub": "Please fill in this <span class='span-purple'>form</span>.",
+    "university": "Are you a university or research center?",
+    "university-sub": "Please fill in this <span class='span-purple'>form</span>.",
+    "returns": "Would you like to ask for a return?",
+    "returns-sub": "Please fill in this <span class='span-purple'>form</span>."
+  },
+  "resellers" : {
+    "title" : "Distribute Walabot Products"
+  }
+}
